@@ -1,18 +1,13 @@
-# Ignore virtual environment
 venv/
 env/
 
-# Ignore database files
 *.sqlite3
 
-# Ignore compiled files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Ignore Django secret key (if using .env file)
 .env
 
-# Ignore log files
 *.log
